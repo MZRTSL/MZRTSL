@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MZRTSL
+- 👀 I’m interested in Python, automation tools
+- 🌱 I’m currently learning Python Selenium IDE
+- 💞️ I’m looking to collaborate on Automation QA Engineer/SDET position (remote)
+- 📫 lena.mazurets@gmail.com
